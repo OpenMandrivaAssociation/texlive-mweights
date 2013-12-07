@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-mweights
 Version:	20130721
-Release:	3
+Release:	4
 Summary:	Support for multiple-weight font packages
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mweights
