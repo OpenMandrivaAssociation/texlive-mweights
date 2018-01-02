@@ -1,9 +1,3 @@
-# revision 31268
-# category Package
-# catalog-ctan /macros/latex/contrib/mweights
-# catalog-date 2013-07-21 22:07:48 +0200
-# catalog-license lppl
-# catalog-version undef
 Name:		texlive-mweights
 Version:	20170414
 Release:	1
@@ -37,8 +31,8 @@ package provides a solution to these difficulties.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/latex/mweights/mweights.sty
-%doc %{_texmfdistdir}/doc/latex/mweights/README
+%{_texmfdistdir}/tex/latex/mweights
+%doc %{_texmfdistdir}/doc/latex/mweights
 
 #-----------------------------------------------------------------------
 %prep
