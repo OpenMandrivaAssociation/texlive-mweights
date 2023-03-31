@@ -1,6 +1,6 @@
 Name:		texlive-mweights
 Version:	53520
-Release:	1
+Release:	2
 Summary:	Support for multiple-weight font packages
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mweights
