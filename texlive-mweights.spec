@@ -3,7 +3,7 @@ Version:	53520
 Release:	2
 Summary:	Support for multiple-weight font packages
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mweights
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/mweights
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mweights.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mweights.doc.r%{version}.tar.xz
